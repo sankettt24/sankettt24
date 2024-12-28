@@ -6,7 +6,7 @@
 
 <div> 
 
-<h1 align="center">Hello, I'm Sanket Anant Patil</h1>
+<h1 align="center">Hello, I'm Sanket Patil</h1>
 <h5 align="center">BE CSE-AIML Student | Aspiring Software Engineer | Web Developer | AI Enthusiast</h5>
 <h6 align= "center" style="background-color:DodgerBlue;"> I’m currently pursuing my Bachelor's of Engineering in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at Lokmanya Tilak College of Engineering, Navi Mumbai. I’m passionate about Machine Learning, Web Development, and Android OS projects. With hands-on experience in Python, Java, and scripting, I have built multiple projects integrating AI and web technologies. I have a solid understanding of databases, object-oriented programming, and user interface design. I’m currently exploring advanced AI model training and modern web frameworks.
 
