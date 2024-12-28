@@ -41,9 +41,7 @@
  <!-- Contact Information -->
   <h4 align="center">📫 Connect with Me</h4>
   <p align="center">
-    <a href="https://www.linkedin.com/in/sanket-anant-patil/" target="_blank">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
+    
     <a href="mailto:sanketapatil2003@gmail.com" target="_blank">
       <img alt="Email" src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
