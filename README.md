@@ -39,10 +39,11 @@
 [![](https://visitcount.itsvg.in/api?id=sanket20038&icon=7&color=11)](https://visitcount.itsvg.in)
 
  <!-- Contact Information -->
-  <h4 align="center">📫 Connect with Me</h4>
-  <p align="center">
-    
-    <a href="mailto:sanketapatil2003@gmail.com" target="_blank">
-      <img alt="Email" src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
+ <!-- Contact Information -->
+<h4 align="center">📫 Connect with Me</h4>
+<p align="center">
+  <a href="mailto:sanketapatil2003@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
